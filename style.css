@@ -33,6 +33,7 @@ html {
   /* Typography */
   
   h1 {
+    font-family: "Amble", serif;
     font-size: 3.2rem;
   }
   
@@ -44,4 +45,5 @@ html {
     font-size: 1.4rem;
     line-height: 1.6;
     word-spacing: 0.6rem;
+    font-family: "Source Code Pro", serif;
   }
